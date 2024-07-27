@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "3 Day Trip to Hunza Valley",
+    "excerpt": "Experience the breathtaking landscapes of Hunza Valley on a short but memorable journey.",
+    "content": "Embark on a 3-day adventure to Hunza Valley, where majestic mountains, crystal-clear rivers, and vibrant cultures await. Explore ancient forts, indulge in local cuisine, and capture stunning views of Rakaposhi and Ultar Sar.",
+    "image": "E:/React/blo/blog-app/hunza.jpg" 
+  },
+  {
+    "id": 2,
+    "title": "2 Weeks Trip to Skardu",
+    "excerpt": "Immerse yourself in the rugged beauty of Skardu with a comprehensive 2-week expedition.",
+    "content": "Discover the rugged beauty of Skardu over 2 weeks, trekking through the Karakoram Range, visiting the breathtaking Shangrila Resort, and marveling at the vastness of Deosai National Park.",
+     "image": "E:/React/blog/blog-app/skardu.jpg" 
+  }
+]
